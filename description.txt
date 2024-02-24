@@ -1,0 +1,1 @@
+Chrome extension build using chrome API, java script and Tabs Object for storing, organizing links and tabs. So that you can explore those saved tabs and links later within browser.
